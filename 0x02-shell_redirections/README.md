@@ -1,1 +1,1 @@
-a script that prints “Hello, World”
+display the contents of /etc/password and/etc/hosts
